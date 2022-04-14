@@ -14,6 +14,9 @@
 
 <http://www.dota2.com/datafeed/herodata?language=portuguese&hero_id=1>
 
+#### Clip Hero
+
+<https://cdn.cloudflare.steamstatic.com/apps/dota2/videos/dota_react/heroes/renders/{hero_name}.webm>
 
 ### List Items
 
